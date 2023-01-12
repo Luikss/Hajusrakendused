@@ -1,0 +1,13 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid;
+}
+
+th {
+  background-color: bisque;
+}
